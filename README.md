@@ -20,9 +20,11 @@
 
 - ✅ [xiaohejs](https://github.com/xiaohe0601/xiaohejs)：🎈 小何同学的JavaScript工具箱
 
-#### 近期
+#### 开发中
 
-- ⬜ xiaohe-bezier：🏀 一个简单易用的贝塞尔曲线工具
+- ⬜ xiaohe-transition：🏀 一个简单易用的贝塞尔曲线过渡动画工具
+
+#### 近期
 
 - ⬜ xiaohe-zoom：🔍 一个用于解决windows显示缩放影响网页布局的小工具
 

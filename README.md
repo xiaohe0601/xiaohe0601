@@ -22,7 +22,7 @@
 
 #### 开发中
 
-- ⬜ xiaohe-transition：🏀 一个简单易用的贝塞尔曲线过渡动画工具
+- ⬜ [xiaohe-transition](https://github.com/xiaohe0601/xiaohe-transition)：🏀 一个简单易用的贝塞尔曲线过渡动画工具
 
 #### 近期
 

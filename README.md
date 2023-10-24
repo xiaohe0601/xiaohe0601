@@ -22,15 +22,9 @@
 
 - ✅ [xiaohe-transition](https://github.com/xiaohe0601/xiaohe-transition)：🏀 一个简单易用的贝塞尔曲线过渡动画工具
 
-#### 开发中
-
-- ⬜ xiaohe-zoom：🔍 一个用于解决windows显示缩放影响网页布局的小工具
-
 #### 近期
 
 - ⬜ xiaohe-uniapp-next：🚀 一个开箱即用的uniapp脚手架（Vue3 + TypeScript）
-
-- ⬜ xiaohe-request：🌏 一个优雅的网络请求工具
 
 - ⬜ xiaohe-admin-vue：🚚 一个开箱即用的管理后台模板（Vue版）
 

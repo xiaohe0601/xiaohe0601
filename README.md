@@ -20,6 +20,8 @@
 
 - ✅ [xiaohe-vue-count-to](https://github.com/xiaohe0601/xiaohe-vue-count-to)：⏱️ 一个实现数字平滑变化的Vue小组件
 
+- ✅ [xiaohe-nano-emitter](https://github.com/xiaohe0601/xiaohe-nano-emitter)：🛴 一个轻量级的事件发射器
+
 - ✅ [xiaohe-uniapp](https://github.com/xiaohe0601/xiaohe-uniapp)：🚀 一个开箱即用的uniapp脚手架
 
 - ✅ [xiaohejs](https://github.com/xiaohe0601/xiaohejs)：🎈 小何同学的JavaScript工具箱

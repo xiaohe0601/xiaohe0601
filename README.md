@@ -22,8 +22,8 @@
 
 - ✅ [xiaohe-nano-emitter](https://github.com/xiaohe0601/xiaohe-nano-emitter)：🛴 一个轻量级的事件发射器
 
+- ✅ [xiaohe-uniapp-next](https://github.com/xiaohe0601/xiaohe-uniapp-next)：🚀 一个开箱即用的uniapp脚手架（Vue3 + TypeScript）
+
 - ✅ [xiaohe-uniapp](https://github.com/xiaohe0601/xiaohe-uniapp)：🚀 一个开箱即用的uniapp脚手架
 
 - ✅ [xiaohejs](https://github.com/xiaohe0601/xiaohejs)：🎈 小何同学的JavaScript工具箱
-
-- ⬜ xiaohe-uniapp-next：🚀 一个开箱即用的uniapp脚手架（Vue3 + TypeScript）

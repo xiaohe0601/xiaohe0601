@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/xiaohe0601">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=%E5%B0%8F%E4%BD%95%E5%90%8C%E5%AD%A6;Xiaohe's+Github+Overview&size=28&color=0969DA&font=ZCOOL+XiaoWei&center=true&vCenter=true&pause=1000" alt="小何同学" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=%E5%B0%8F%E4%BD%95;Xiaohe's+Github+Overview&size=28&color=0969DA&font=ZCOOL+XiaoWei&center=true&vCenter=true&pause=1000" alt="小何" />
   </a>
 </div>
 
@@ -26,4 +26,4 @@
 
 - ✅ [xiaohe-uniapp](https://github.com/xiaohe0601/xiaohe-uniapp)：🚀 一个开箱即用的uniapp脚手架
 
-- ✅ [xiaohejs](https://github.com/xiaohe0601/xiaohejs)：🎈 小何同学的JavaScript工具箱
+- ✅ [xiaohejs](https://github.com/xiaohe0601/xiaohejs)：🎈 小何的JavaScript工具箱

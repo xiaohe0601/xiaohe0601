@@ -16,6 +16,8 @@
 
 - ✅ [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp)：京东风格的轻量级移动端组件库
 
+- ✅ [watermark-lite](https://github.com/xiaohe0601/watermark-lite)：💻 a lightweight watermark plugin 一个轻量级水印插件
+
 - ✅ [xiaohe-transition](https://github.com/xiaohe0601/xiaohe-transition)：🏀 一个简单易用的贝塞尔曲线过渡动画工具
 
 - ✅ [xiaohe-vue-count-to](https://github.com/xiaohe0601/xiaohe-vue-count-to)：⏱️ 一个实现数字平滑变化的Vue小组件

@@ -31,6 +31,6 @@ jobs:
         with:
           target_branch: output/github-snake
           build_dir: assets
-          commit_message: "build: generate github snake once more"
+          commit_message: "build: generate github snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

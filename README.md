@@ -1,5 +1,15 @@
 ### 👋 Hi, I'm xiaohe0601.
 
+<div align="center">
+  <samp>
+    <a href="https://xiaohe.ink">xiaohe.ink</a>
+    •
+    <a href="mailto:xiaohe0601@outlook.com">mail</a>
+    •
+    <a href="https://afdian.com/a/xiaohe0601">sponsor</a>
+  </samp>
+</div>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

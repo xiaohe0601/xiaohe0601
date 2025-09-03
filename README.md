@@ -1,5 +1,3 @@
-### 👋 Hi, I'm xiaohe0601.
-
 <div align="center">
   <samp>
     <a href="https://xiaohe.ink">xiaohe.ink</a>
@@ -22,3 +20,9 @@
     width="100%"
     alt="github-snake" />
 </picture>
+
+<div align="center">
+  <a href="https://oss.xiaohe.ink/profile/sponsors.svg">
+    <img src="https://oss.xiaohe.ink/profile/sponsors.svg" alt="sponsors" />
+  </a>
+</div>

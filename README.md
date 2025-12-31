@@ -4,7 +4,7 @@
     •
     <a href="mailto:xiaohe0601@outlook.com">mail</a>
     •
-    <a href="https://afdian.com/a/xiaohe0601">sponsor</a>
+    <a href="https://github.com/xiaohe0601/sponsors">sponsor</a>
   </samp>
 </div>
 
@@ -22,7 +22,7 @@
 </picture>
 
 <div align="center">
-  <a href="https://oss.xiaohe.ink/profile/sponsors.svg">
-    <img src="https://oss.xiaohe.ink/profile/sponsors.svg" alt="sponsors" />
+  <a href="https://sponsors.xiaohe.ink/sponsorkit/sponsors.svg">
+    <img src="https://sponsors.xiaohe.ink/sponsorkit/sponsors.svg" alt="sponsors" />
   </a>
 </div>
